@@ -19,7 +19,13 @@ A free, auto-graded **Bootstrap 5** tutorial: **8 hands-on exercises, about 5 ho
 1. How to add Bootstrap 5 to any website, and when the CDN is enough.
 2. How to pick the HTML elements that will receive Bootstrap styles.
 3. How the 12-column grid works: each column is about **8.33%** of the row width, and the columns in one row can never add up to more than 12.
+
+![Bootstrap's 12-column grid: a row of twelve 1-slot columns, then six 2-slot, four 3-slot, three 4-slot, two 6-slot, a 4+8 split, and one full-width 12-slot column](https://raw.githubusercontent.com/4GeeksAcademy/bootstrap-exercises-tutorial/master/.learn/assets/grid.png)
+
 4. The components behind most interfaces: navbar, sidebar, hero, buttons, alerts, tables and forms.
+
+![Finished exercise 07: Bootstrap buttons in several colours, a dismissible alert, and a striped table](https://raw.githubusercontent.com/4GeeksAcademy/bootstrap-exercises-tutorial/master/.learn/assets/07-buttons-alert-and-table-result.png)
+
 5. When to use a Bootstrap utility class instead of writing your own CSS.
 
 ## 👀 What will you build?
@@ -34,6 +40,11 @@ Eight small pages. Each one is a component you will reuse in real projects:
 6. **Hero section and three boxes** — a landing-page header with a three-column feature row.
 7. **Buttons, alert and table** — the components you need for almost any interface.
 8. **Bootstrap forms** — a form built with Bootstrap's input and layout classes.
+
+This is exercise 06 once you finish it — a hero section with a call to action, followed by a three-column feature row, built entirely with Bootstrap classes:
+
+![Finished exercise 06: a Bootstrap hero section titled Hello, world! with a Learn more button, above three equal columns each with a heading and a View details button](https://raw.githubusercontent.com/4GeeksAcademy/bootstrap-exercises-tutorial/master/.learn/assets/06-hero-section-and-three-boxes-result.png)
+
 
 ## 🎓 What do you need before starting?
 
